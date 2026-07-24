@@ -1,3 +1,7 @@
+# **Note**
+The old version of ElevenPage Reader uses deprecated TTS, so this fork is to fix that. 
+
+
 # **ElevenPage Reader**
 
 **ElevenPage Reader** is a Chrome Extension that transforms any web page into an immersive audio experience using the ultra-realistic AI voices from [ElevenLabs](https://elevenlabs.io/).
